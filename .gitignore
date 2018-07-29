@@ -1,0 +1,9 @@
+# Dependency directory
+node_modules
+bower_components
+
+# env files
+npm-debug.log
+
+# dist
+dist/*

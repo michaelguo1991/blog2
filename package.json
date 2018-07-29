@@ -1,0 +1,22 @@
+{
+  "name": "blog",
+  "version": "1.0.0",
+  "description": "个人博客",
+  "main": "index.js",
+  "scripts": {
+    "start": "nodemon ./bin/www"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/michaelguo1991/blog.git"
+  },
+  "author": "guoxf",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/michaelguo1991/blog/issues"
+  },
+  "homepage": "https://github.com/michaelguo1991/blog#readme",
+  "dependencies": {
+    "express": "^4.16.3"
+  }
+}
